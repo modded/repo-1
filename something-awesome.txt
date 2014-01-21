@@ -7,3 +7,5 @@ This is a new comment from c9.io.
 This is a new comment #2!!! c9.io
 
 This commit is #3 from c9.io using : git commit -am 'comment'; git push
+
+That last commit didn't work try now.
